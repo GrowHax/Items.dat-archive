@@ -1,3 +1,3 @@
-# Items.dat archive
+# Archive for older Items.dat files
 
-## [click here for the items.dat decoder source](https://github.com/GrowHax/items.dat-decoder)
+## [Click here for the repository items.dat decoder](https://github.com/GrowHax/items.dat-decoder)
